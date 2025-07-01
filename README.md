@@ -15,6 +15,7 @@ The aim is to curate a structured, regularly updated reading list for researcher
 
 | Date       | Title                                                                                          | Authors             | Venue          | Notes                           |
 |------------|------------------------------------------------------------------------------------------------|---------------------|----------------|--------------------------------|
+| 2025-05-26 | [Learning to Reason without External Rewards](https://arxiv.org/pdf/2505.19590?) | Zhao et al. | Arxiv 2025   | TBA |
 | 2024-09-26 | [Meaningful Learning: Enhancing Abstract Reasoning in Large Language Models via Generic Fact Guidance](https://proceedings.neurips.cc/paper_files/paper/2024/file/da5498f88193ff61f0daea1940b819da-Paper-Conference.pdf) | Xiong et al. | NeurIPS 2024   | TBA |
 
 ---
